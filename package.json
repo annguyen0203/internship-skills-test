@@ -1,0 +1,11 @@
+{
+	"devDependencies": {
+		"@vitejs/plugin-vue": "^5.2.3"
+	},
+	"dependencies": {
+		"@supabase/supabase-js": "^2.49.4"
+	},
+	"scripts": {
+		"dev": "vite"
+	}
+}
